@@ -229,7 +229,6 @@ User/main.c    主循环
 更多复现步骤见：
 
 - `使用说明.md`
-- `SESSION_SUMMARY.md`
 
 ## 隐私说明
 
