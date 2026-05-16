@@ -1,0 +1,25 @@
+# CCS build output
+Debug/
+Release/
+*.obj
+*.d
+*.d_raw
+*.map
+*_linkInfo.xml
+*.out
+*.hex
+*.opt
+
+# Local IDE/cache files
+.vscode/
+.metadata/
+.jxbrowser-data/
+
+# Large/reference documents kept outside git
+*.pdf
+*.doc
+*.docx
+*.xlsx
+~$*
+guide.txt
+schematic.txt
